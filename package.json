@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-amplify-login",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-amplify-login",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmorgan3/AmplifyLoginPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Morgan B. Quintana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmorgan3/AmplifyLoginPlugin/issues"
+  },
+  "homepage": "https://github.com/elmorgan3/AmplifyLoginPlugin#readme"
+}
