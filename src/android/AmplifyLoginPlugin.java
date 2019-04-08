@@ -1,4 +1,4 @@
-package cordova-plugin-amplify-login;
+package cordova.plugin.amplify.login;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
